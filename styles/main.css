@@ -1,9 +1,21 @@
 body {
-  background-color: #E0E0DE;
-  color:#260126;
+  background-color: #BFAF80;
+  color:#59323c;
   font-family: georgia;
 }
-p {
-  background-color: #BFAF80;
+header {
+  color:#260126;
 }
-
+nav ul{
+  list-style-type: none;
+  display: inline-block;
+  background-color: #F2EEB3
+}
+p {
+  background-color:#E0E0DE;
+  padding: 10px;
+}
+.p1-footer {
+  background:none;
+  font-size: 
+}
