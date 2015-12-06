@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Lizzie's Adventures in EDA</title>
+    <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="../styles/main.css" rel="stylesheet" type="text/css"
+  </head>
+
+  <body>
+    <h1> Code Your Heart Out</h1>
+    <h2> The hackventures of LaShark and oldcomp Dino </h2>
+   <nav>
+      <ul>
+        <li><a href="http://lizzielashark.github.io/">Home</a></li>
+        <li><a href="#">About me</a></li>
+        <li><a href="http://lizzielashark.github.io/blog/c1-reflection-blog.html">Reflections</a></li>
+        <li><a href="http://lizzielashark.github.io/blog/c1-time-and-habits-blog.html">Time & Habits</a></li>
+      </ul>
+    </nav>
+
+    <main>
+          <article>
+            <h3> This is a project page for my adventures in coding. Haere mai, welcome. </h3>
+            <img src="https://49.media.tumblr.com/d4f4f03417cbdf4c73f107ee1adeee93/tumblr_nh9memc16f1u1qld9o1_500.gif" alt="sharkgif">
+            <p>This blog follows the adventures of a girl who decided to take a scary leap of faith, delving into the world of technology and the internet to help speed up an inevitable global paradgim shift, in the face of a changing climate.
+            </p>
+            <p>
+           Feel free to watch my humble adventure unfold here. I hope to inspire other women to take the plunge. Forget what you've been told about being 'bad at maths' or' 'not a computer person', girl you got this. You know what they say...#10,000hrs. <a href="https://twitter.com/LizzieLaShark>@LizzieLaShark</a> on twitter. #codingforchange #hackthesystem
+            </p>
+          </article>
+        </main>
