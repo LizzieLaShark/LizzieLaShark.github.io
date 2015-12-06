@@ -6,7 +6,7 @@ body {
 header {
   color:#260126;
 }
-nav ul{
+nav ul li{
   list-style-type: none;
   display: inline-block;
   background-color: #F2EEB3
