@@ -1,6 +1,8 @@
+
 body {
   background-image: url("http://freebigpictures.com/wp-content/uploads/2009/09/flowers-of-the-field-646x433.jpg");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   color:white;
   font-family: Georgia;
  background-size:100%;
@@ -33,6 +35,15 @@ nav ul li a {
   font-weight: bolder;
     }
 p {
-  color: white;
-}
+  background: rgb(186, 215, 213) none no-repeat scroll 0% 0%;
+  color: #FFF;
+  margin-right: 35%;
+  margin-left: 35%;
+  margin-top: 5%;
+  padding: 1.5%;
+  font-family: PT sans narrow;
+  }
+
+
+
 
