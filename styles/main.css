@@ -1,1 +1,39 @@
-
+.row {
+	100%
+}
+.col-1 {
+	wdith:8.33%;
+}
+.col-2 {
+	wdith:16.66%;
+}
+.col-3 {
+	wdith:25%;
+}
+.col-4 {
+	wdith:33.33%;
+}
+.col-5 {
+	wdith:41.66%;
+}
+.col-6 {
+	wdith:50%;
+}
+.col-7 {
+	wdith:58.33%;
+}
+.col-8 {
+	wdith:66.66%;
+}
+.col-9 {
+	wdith:75%;
+}
+.col-10 {
+	wdith:83.33%;
+}
+.col-11 {
+	wdith:91.66%;
+}
+.col-12{
+	wdith:100%;
+}
